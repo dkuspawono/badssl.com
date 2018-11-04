@@ -69,3 +69,4 @@ Various subdomains and test pages are also implemented by [external contributors
 Most subdomains are likely to have stable functionality, but anything *could* change without notice. If you would like a documented guarantee for a particular use case, please file an issue. (Alternatively, you could make a fork and host your own copy.)
 
 badssl.com is not an official Google product. It is offered "AS-IS" and without any warranties.
+
